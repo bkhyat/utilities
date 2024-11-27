@@ -1,3 +1,7 @@
+"""
+Script to extract all zip files from directory/subdirectories based on the provided input_dir path.
+"""
+
 import os
 import gzip
 import shutil
